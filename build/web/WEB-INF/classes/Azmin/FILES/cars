@@ -1,0 +1,50 @@
+CarId: CityHop-1, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: AVAILABLE
+CarId: CityHop-2, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: NOTAVAILABLE
+CarId: CityHop-3, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: AVAILABLE
+CarId: CityHop-4, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: NOTAVAILABLE
+CarId: CityHop-5, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-6, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: NOTAVAILABLE
+CarId: CityHop-7, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: AVAILABLE
+CarId: CityHop-8, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-9, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: AVAILABLE
+CarId: CityHop-10, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: NOTAVAILABLE
+CarId: CityHop-11, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: NOTAVAILABLE
+CarId: CityHop-12, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: NOTAVAILABLE
+CarId: CityHop-13, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-14, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: AVAILABLE
+CarId: CityHop-15, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: NOTAVAILABLE
+CarId: CityHop-16, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-17, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-18, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: AVAILABLE
+CarId: CityHop-19, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-20, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: NOTAVAILABLE
+CarId: CityHop-21, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-22, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: NOTAVAILABLE
+CarId: CityHop-23, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-24, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-25, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-26, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: NOTAVAILABLE
+CarId: CityHop-27, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: AVAILABLE
+CarId: CityHop-28, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-29, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: AVAILABLE
+CarId: CityHop-30, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-31, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: NOTAVAILABLE
+CarId: CityHop-32, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-33, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: NOTAVAILABLE
+CarId: CityHop-34, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-35, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: NOTAVAILABLE
+CarId: CityHop-36, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-37, CarType: FORD, Model: SUV, PricePerDay: 50, Availability: NOTAVAILABLE
+CarId: CityHop-38, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: NOTAVAILABLE
+CarId: CityHop-39, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: NOTAVAILABLE
+CarId: CityHop-40, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: NOTAVAILABLE
+CarId: CityHop-41, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: AVAILABLE
+CarId: CityHop-42, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
+CarId: CityHop-43, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: NOTAVAILABLE
+CarId: CityHop-44, CarType: KIA, Model: Soul, PricePerDay: 40, Availability: AVAILABLE
+CarId: CityHop-45, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: NOTAVAILABLE
+CarId: CityHop-46, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-47, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-48, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-49, CarType: TOYOTA, Model: Camry, PricePerDay: 45, Availability: AVAILABLE
+CarId: CityHop-50, CarType: TESLA, Model: Model X, PricePerDay: 60, Availability: AVAILABLE
